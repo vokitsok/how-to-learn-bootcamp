@@ -1,3 +1,6 @@
+div{
+  border: 1px solid red;
+}
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -19,26 +22,145 @@
 }
 
 .logo_place_header{
-
+  height: 32px;
+  width: 228px;
+  position: absolute;
 }
 
 .header_title{
+  width: 730px;
 
 }
 
 .header_subtitle{
-
+  width: 388px;
+  position: absolute;
 }
 
 .header_link{
-
+  color: #2f80ed;
 }
 
 .header_main-illustration{
-
+  width: 765px;
+  height: 608px;
+  position: absolute;
+  src: url(/images/header-image.png);
 }
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
+  position: absolute;
+}
+.description{
+
+}
+.two-columns{
+
+}
+.two-columns_brief{
+
+}
+.two-columns_main-text{
+
+}
+.two-columns_paragraph{
+
+}
+.two-columns_span-accent{
+
+}
+.digits{
+
+}
+.section-title{
+
+}
+.section-subtitle{
+
+}
+.table{
+
+}
+.table_cell{
+
+}
+.table_heading{
+
+}
+.table_text{
+
+}
+.feynman{
+
+}
+.feynman_title{
+
+}
+.feynman_subtitle{
+
+}
+.feynman_link{
+
+}
+.feynman_img{
+
+}
+.kaufman{
+
+}
+.section-title_theme_dark{
+
+}
+.section-subtitle_theme_dark{
+
+}
+.table_theme_dark{
+
+}
+.table_cell_theme_dark{
+
+}
+.table_heading_theme_dark{
+
+}
+.table_text_theme_dark{
+
+}
+.kaufman_triangle{
+
+}
+.footer{
+
+}
+.footer_columns{
+
+}
+.footer_column_content_copyright{
+
+}
+.footer_column_content_info{
+
+}
+.footer_column_content_social{
+
+}
+.logo_place_footer{
+
+}
+.footer_author{
+
+}
+.footer_column-heading{
+
+}
+.footer_column-links{
+
+}
+.footer_social-icon{
+
+}
+.footer_column-link{
+
 }
